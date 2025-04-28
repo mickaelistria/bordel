@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.tycho</groupId>
+  <artifactId>sisu-osgi</artifactId>
+  <versioning>
+    <lastUpdated>20250428132339</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.0.13-SNAPSHOT</value>
+        <updated>20250428132339</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>4.0.13-SNAPSHOT</version>
+</metadata>

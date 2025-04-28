@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eclipse.tycho</groupId>
+  <artifactId>org.eclipse.tycho.surefire.junit57withvintage</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.13-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250428132339</lastUpdated>
+  </versioning>
+</metadata>

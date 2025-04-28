@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 28 15:25:26 CEST 2025
+tycho-wrap-plugin-4.0.13-SNAPSHOT-sources.jar>=
+tycho-wrap-plugin-4.0.13-SNAPSHOT.jar>=
+tycho-wrap-plugin-4.0.13-SNAPSHOT.pom>=

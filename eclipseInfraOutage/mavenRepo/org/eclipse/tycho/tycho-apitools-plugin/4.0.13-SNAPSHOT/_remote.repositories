@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 28 15:25:23 CEST 2025
+tycho-apitools-plugin-4.0.13-SNAPSHOT-sources.jar>=
+tycho-apitools-plugin-4.0.13-SNAPSHOT.jar>=
+tycho-apitools-plugin-4.0.13-SNAPSHOT.pom>=
